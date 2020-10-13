@@ -3,12 +3,12 @@ There are several programms that focuses on problem solving using dynamic progra
 
 * 01_knapsack (3 approaches):
 
-1.Using Recursion
+  1.Using Recursion
 
-2.Using Recursion+Memoization
+  2.Using Recursion+Memoization
 
-3.Using Dynamic Programming
+  3.Using Dynamic Programming
 
 * Subset Sum
 
-1.Subset Sum using dp related to knapsack approach 
+  1.Subset Sum using dp related to knapsack approach 
