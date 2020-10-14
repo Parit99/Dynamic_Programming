@@ -13,5 +13,7 @@ There are several programms that focuses on problem solving using dynamic progra
 
   1.Subset Sum using dp related to knapsack approach 
   
-  2.Leetcode Problem of Partition Equall Subset Sum
+  2.Leetcode Problem of Partition Equall Subset Sum :- Partition subset into 2 equall parts
+  
+  3.Subset Sum Count :- Count number of subset from array given sum k
   
