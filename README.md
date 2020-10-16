@@ -9,6 +9,8 @@ There are several programms that focuses on problem solving using dynamic progra
 
   3.Using Dynamic Programming
 
+* Unbounded Knapsack 
+
 * Subset Sum
 
   1.Subset Sum using dp related to knapsack approach 
