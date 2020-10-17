@@ -9,7 +9,9 @@ There are several programms that focuses on problem solving using dynamic progra
 
   3.Using Dynamic Programming
 
-* Unbounded Knapsack 
+* Unbounded Knapsack :- Maximum Profit achieved by including items for multiple number of times
+
+* Coin change :- number of ways given sum can be obtained from denominations of coins
 
 * Subset Sum
 
