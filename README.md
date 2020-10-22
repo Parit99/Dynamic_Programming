@@ -20,4 +20,12 @@ There are several programms that focuses on problem solving using dynamic progra
   2.Leetcode Problem of Partition Equall Subset Sum :- Partition subset into 2 equall parts
   
   3.Subset Sum Count :- Count number of subset from array given sum k
+
+* String 
+  
+  1.Longest Common Subsequence(lcs.py)
+  
+  2.Longest Common Subsequence pattern print(lcs_pattern_print.py)
+  
+  3.Longest Common Substring
   
